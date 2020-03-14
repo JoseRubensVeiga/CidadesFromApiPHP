@@ -4,9 +4,9 @@ Nesse projeto teremos, uma aplicação simples, renderizada do lado do servidor 
 
 ## Funcionalidades realizadas com PHP:
 
-A. A tabela deverá ser preenchida com as cidades correspondentes ao estado. As cidades estão localizadas no arquivo cidades.jon dentro desse projeto.
-B. A primeira coluna é uma numeração sequencial.
-C. A formatação da tabela deverá ser zebrada conforme o wireframe.
+1. A tabela deverá ser preenchida com as cidades correspondentes ao estado. As cidades estão localizadas no arquivo cidades.jon dentro desse projeto.
+2. A primeira coluna é uma numeração sequencial.
+3. A formatação da tabela deverá ser zebrada conforme o wireframe.
 
 ## Entrega
 
