@@ -10,16 +10,9 @@ C. A formatação da tabela deverá ser zebrada conforme o wireframe.
 
 ## Entrega
 
-A. **Data**: 18/03/2019
-B. **Local**: OneDrive pasta "04 - Cidades"
+- **Data**: 18/03/2019
+- **Local**: OneDrive pasta "04 - Cidades"
 
 ## A tabela
-
-### Deverá ter o layout abaixo
-
-| Nº  | Cidades   |
-| --- | --------- |
-| 1   | Alumínio  |
-| 2   | São Roque |
 
 ![tabela](./assets/table.png)
